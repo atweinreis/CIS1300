@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-body {background-color:darkgray}
+body {background-color:lightgray }
 #page {
     margin: 3px auto 3px auto;
     width: 900px;
@@ -9,22 +9,24 @@ body {background-color:darkgray}
 }
 
 #header {
-    background-color: #FF0004;
+    background-color: green;
     width: 100%;
     height: 200px;
 }
 #content {
-    width: 100%;
+    width: 90%;
     background-color: #FBC300;
     position: relative;
 }
 #sidebar {
     background-color: #00FFFB;
     position: absolute;
-    top: 0px;
+    top: 229px;
     bottom: 0px;
-    left: 0px;
+    left: 1411px;
     right: 70%;
+    height: 460px;
+    width: 159px;
 }
 #main {
     background-color: #0AFF00;
