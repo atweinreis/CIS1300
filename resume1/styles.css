@@ -14,7 +14,7 @@ body {background-color:lightgray }
     height: 200px;
 }
 #content {
-    width: 30%;
+    width: 100%;
     background-color: #FBC300;
     position: relative;
 }
