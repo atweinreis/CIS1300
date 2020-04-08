@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background-color:lightgray  }
+#page {
+    margin: 3px auto 3px auto;
+    width: 900px;
+    background-color: #FF00BE;
+}
+
+#header {
+    background-color: green;
+    width: 100%;
+    height: 200px;
+   
+}
+#content {
+    width: 100%;
+    position: relative;
+	align: center;
+	
+}
+
+h1 { color: seagreen;}
+#main {
+    background-color: #0AFF00;
+    width: calc(70% - 2em);
+    margin-left: 30%;
+    padding: 1em;
+    min-height: 300px;
+    opacity: 1;
+    font-style: normal;
+	
+}
+#footer {
+    background-color:aqua;
+    width: 100%;
+   height: 100px;
+}
+
+#wrapper {
+max-width: 900px;
+width: 2em;
+	
+margin-top: inherit;
+margin-bottom: inherit;
+border: medium;
+	
+	
+}
